@@ -75,6 +75,7 @@ public class Main {
             System.out.println("inputArray4: " + Arrays.toString(inputArray4));
             System.out.println("outputArray4: " + Arrays.toString(outputArray4));
             System.out.println();
+            System.out.println();
         }
     }
 }
